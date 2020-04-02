@@ -1,0 +1,6 @@
+{
+  "iban": "1234567890",
+  "accountHolderName": "John Wick",
+  "refundAmount": "750",
+  "refundDate": "2020-01-23T12:34:56.123456789Z"
+}
